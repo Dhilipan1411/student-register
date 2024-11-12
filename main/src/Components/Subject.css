@@ -1,0 +1,142 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Sub-full {
+    width: 70%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .sub-h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .first-input, .sec-input {
+    width: 70%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .first-input {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  .sec-input {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  .sub-add {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 10px auto;
+    margin-left: 30px
+  }
+  
+  .sub-add:hover {
+    background-color: #218838;
+  }
+  
+  .sub-h2, .Depart-h2 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+  }
+  
+  .sub-table, .Depart-table {
+    width: 700px;
+    margin: 10px 0;
+    margin-left: 90px;
+    border-collapse: collapse;
+    text-transform: uppercase;
+  }
+  
+  .sub-table th, .sub-table td, .Depart-table th, .Depart-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .Depart-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .Depart-table td {
+    background-color: #fafafa;
+  }
+  
+  .delete-sub {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 3px;
+  }
+  
+  .delete-sub:hover {
+    background-color: #c82333;
+  }
+  
+  .sum-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+   
+  }
+  
+  .sum-button:hover {
+    background-color: #0069d9;
+  }
+  
+.first-input-box{
+  margin-left: 80px;
+  width: 300px;
+}  
+.sec-input-box{
+
+  width: 300px;
+  margin-left: 50px;
+}  
+.sub-inpt-boxs{
+  display: flex;
+    
+}
+.edit-sub{
+  background-color: #7efa9b;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  font-size: 14px;
+  border-radius: 4px;
+  cursor: pointer;
+}

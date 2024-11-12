@@ -1,0 +1,27 @@
+/* NavBar.css */
+.navbar {
+    background-color: #f5f37a;
+    padding: 1rem;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  .navbar a {
+    color: rgb(24, 21, 21);
+    text-decoration: none;
+
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+    color: rgb(209, 23, 23);
+  }
+  

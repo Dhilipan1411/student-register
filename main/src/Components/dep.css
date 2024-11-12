@@ -1,0 +1,69 @@
+.dep{
+    border:1px solid black;
+    height: 100%;
+    padding-left: 450px;
+    background-color:rgb(175, 252, 175);
+
+}
+.dep-h1{
+    border-bottom:2px dashed black;
+    width: 350px;
+    padding-left: 50px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.dep-input{
+    border:1px solid black;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 150px;
+    height: 30px;
+    font-size: large;
+}
+.dep-green{
+    background-color: rgb(103, 252, 103);
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 100px;
+
+}
+
+.dep-h2{
+    border-bottom:2px dashed black;
+    width: 350px;
+    padding-left: 50px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.dep-table{
+    margin-top: 20px;
+    border:1px solid black;
+    width: 355px;
+    height: 300px;
+    background-color:  aquamarine;
+}
+.dep-table thead{
+    height: 40px;
+}
+.dep-table tbody{
+    height: 40px;
+    border:1px solid black;
+
+}
+.dep-table tbody td{
+    border:1px solid black;
+    width: 200px;
+    font-size:large;
+    font-weight: bold;
+}
+.dep-red{
+    background-color: red;
+    height: 40px;
+    width: 150px;
+    /* margin-left: 50px; */
+    color: aliceblue;
+   
+}
